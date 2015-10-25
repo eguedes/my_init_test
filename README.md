@@ -3,3 +3,5 @@
 Repositório apenas para começar a aprender a usar o GitHub.
 
 Mais uma modificação.
+
+Agora uma modificação pelo GUI.
